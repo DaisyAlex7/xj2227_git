@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Hello World!
 This is Xuanyi.
 Thank you!
+=======
+Hello World, this is Daisy!
+Thank YOU!
+>>>>>>> feature1
